@@ -1,13 +1,24 @@
 {
     "name": "arikun/arinstaller",
-    "description": "Ergon Dashboard Installer",
-    "type": "library",
+    "description": "Argon Dashboard Pages Installer",
+    "keywords": ["LOGIN ADMIN", "ArInstaller", "Laravel", "Laravel UI"],
     "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "arikun",
+            "email": "riihaxor@gmail.com"
+        }
+    ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "php": "^7.3|^8.0",       
+        "laravel/framework": "^8.12",
+        "laravel/ui": "^3.2"
+    },
     "autoload": {
         "psr-4": {
-            "Arikun\\Arinstaller\\": "src/"
+            "Arikun\\Sabmin\\": "src/"
         }
     }
 }
