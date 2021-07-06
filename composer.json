@@ -1,6 +1,6 @@
 {
     "name": "arikun/arinstaller",
-    "description": "Ergon Dashboard Installer",
+    "description": "Argon Dashboard Installer",
     "type": "library",
     "license": "MIT",
     "minimum-stability": "dev",
