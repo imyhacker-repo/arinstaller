@@ -1,0 +1,13 @@
+{
+    "name": "arikun/erinstaller",
+    "description": "Ergon Dashboard Installer",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Arikun\\Arinstaller\\": "src/"
+        }
+    }
+}
