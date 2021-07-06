@@ -1,8 +1,9 @@
 {
     "name": "arikun/arinstaller",
-    "description": "Argon Dashboard Installer (ArInstaller)",
-    "type": "library",
+    "description": "Argon Dashboard Pages Installer",
+    "keywords": ["LOGIN ADMIN", "ArInstaller", "Laravel", "Laravel UI"],
     "license": "MIT",
+    "type": "library",
     "authors": [
         {
             "name": "arikun",
@@ -17,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Arikun\\Mindash\\": "src/"
+            "Arikun\\Arinstaller\\": "src/"
         }
     }
 }
