@@ -12,5 +12,5 @@
     <link href="{{asset('assets/js/plugins/nucleo/css/nucleo.css')}}" rel="stylesheet" />
     <link href="{{asset('assets/js/plugins/@fortawesome/fontawesome-free/css/all.min.css')}}" rel="stylesheet" />
     <!-- CSS Files -->
-    <link href="{{asset('assets/css/argon-dashboard.css?v=1.1.2"')}} rel="stylesheet" />
+    <link href="{{asset('assets/css/argon-dashboard.css?v=1.1.2')}}" rel="stylesheet" />
   </head>
