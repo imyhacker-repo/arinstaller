@@ -122,3 +122,11 @@ Link : https://www.youtube.com/watch?v=nWk6B14l4_Q
 ### Information Update 
 
 - This package will continue to be updated
+- Using Component (1-2)
+
+### Special Thanks
+
+- <a href="https://laravel.com">Laravel</a>
+- <a href="https://www.creative-tim.com/">Creative Tim</a>
+- <a href="https://suteki.my.id">Suteki.my.id</a>
+- <a href="https://indosec.id/">IndoSec</a>
