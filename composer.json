@@ -10,7 +10,6 @@
             "email": "riihaxor@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": "^7.3|^8.0",       
         "laravel/framework": "^8.12|^10.10",
